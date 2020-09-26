@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+![Public Github Stats](https://github-readme-stats.vercel.app/api?username=DiscoreMe&show_icons=true&hide_border=false)
+
+![Profile Views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/DiscoreMe/&title=Profile%20Views)
 <!--
 **DiscoreMe/DiscoreMe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
