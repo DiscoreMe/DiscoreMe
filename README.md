@@ -7,7 +7,7 @@
 - My name is **Nikita**
 - Fullstack go dev with the makings of a devops
 - I like to constantly sort out something new that I didn't understand before, and then forget about it
-- I write in Golang, Python, js and now C++
+- I write in Golang, Python, JavaScript and now Rust
 - Currently idling around
 
 ### My projects
